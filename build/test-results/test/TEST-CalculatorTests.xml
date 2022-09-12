@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-12T19:43:11" hostname="DESKTOP-MIMVBVS" time="0.051">
+  <properties/>
+  <testcase name="testAbs()" classname="CalculatorTests" time="0.044"/>
+  <testcase name="testPow()" classname="CalculatorTests" time="0.002"/>
+  <testcase name="testIsPositive()" classname="CalculatorTests" time="0.003"/>
+  <system-out><![CDATA[TESTS START
+test start
+test completed
+test start
+test completed
+test start
+test completed
+TESTS END
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
